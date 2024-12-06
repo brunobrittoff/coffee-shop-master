@@ -12,8 +12,6 @@ Projeto para a disciplina: Projeto integrador transdisciplinar em ciência da co
 
 - Autenticação do Usuário: Implementa o Google Login para autenticação do usuário. Isso fornece uma maneira segura e conveniente para os usuários criarem contas e fazer login.
 
-- Integração de Mapas: Utilize o Mapbox para exibir a localização da cafeteria, fornecendo aos usuários uma referência visual.
-
 ## Tecnologias Utilizadas
 - React: Uma biblioteca JavaScript para construção de interfaces de usuário.
 
