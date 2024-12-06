@@ -24,3 +24,5 @@ Projeto para a disciplina: Projeto integrador transdisciplinar em ciência da co
 - Typescript: Um superconjunto do JavaScript que adiciona tipos estáticos, melhorando a qualidade do código e a experiência de desenvolvimento.
 
 - Vite: Um servidor de desenvolvimento rápido, bundler e ferramenta de build otimizada.
+
+- NodeJS com Express e MongoDB para o Backend
